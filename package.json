@@ -1,0 +1,23 @@
+{
+  "name": "memoryBackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-combine-routers": "^4.0.2",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.1",
+    "nodemon": "^2.0.7"
+  }
+}
