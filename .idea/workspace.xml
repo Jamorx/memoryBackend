@@ -16,25 +16,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc002563-d85d-4090-9351-af7cbf102216" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/mapController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/memoryController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/workController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataBase/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/homeword.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/student.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/mapRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/memoryRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +43,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="jamorx" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1q1LmgXSFaBOYJyjDTd4KJZvZWO" />
@@ -79,6 +77,7 @@
       <workItem from="1616936070271" duration="2228000" />
       <workItem from="1617107284635" duration="30000" />
       <workItem from="1617107388253" duration="3024000" />
+      <workItem from="1618404847097" duration="362000" />
     </task>
     <servers />
   </component>
@@ -90,11 +89,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616933479715">
@@ -105,5 +117,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="632" y="366" key="#com.intellij.fileTypes.FileTypeChooser/-1920.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1616244017446" />
+    <state x="0" y="34" width="1792" height="1017" key="Vcs.Push.Dialog.v2" timestamp="1618404918996">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="0" y="34" width="1792" height="1017" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1618404918996" />
   </component>
 </project>
