@@ -2,9 +2,9 @@ const mongoose = require('mongoose')
 const moment = require('moment')
 
 // const conn = mongoose.createConnection('mongodb://jamorx:haohaode1@119.28.56.232:27017/memory', {
-//     useNewUrlParser: true,
-//     useUnifiedTopology: true
-// })
+// //     useNewUrlParser: true,
+// //     useUnifiedTopology: true
+// // })
 
 const conn = mongoose.createConnection('mongodb://zsq:555666@119.28.56.232:27017/zsqWork', {
     useNewUrlParser: true,

@@ -20,21 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc002563-d85d-4090-9351-af7cbf102216" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/mapController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/memoryController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/workController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataBase/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/homeword.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/student.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/mapRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/memoryRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/引导_副本.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/mapController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/memoryController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/memoryController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/workController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/dataBaseController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataBase/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dataBase/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/mapRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/memoryRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/memoryRouter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1q1LmgXSFaBOYJyjDTd4KJZvZWO" />
@@ -63,7 +63,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\webstorm\WebStorm 2019.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\memoryBackend\static" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -79,18 +86,21 @@
       <workItem from="1616936070271" duration="2228000" />
       <workItem from="1617107284635" duration="30000" />
       <workItem from="1617107388253" duration="3024000" />
+      <workItem from="1618405157953" duration="2496000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -105,5 +115,29 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="632" y="366" key="#com.intellij.fileTypes.FileTypeChooser/-1920.40.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1616244017446" />
+    <state x="506" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618406725042">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="506" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618406725042" />
+    <state x="175" y="146" width="1200" height="624" key="DiffContextDialog" timestamp="1618406790329">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="175" y="146" width="1200" height="624" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1618406790329" />
+    <state width="1364" height="208" key="GridCell.Tab.0.bottom" timestamp="1618405198058">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618405198058" />
+    <state width="1364" height="208" key="GridCell.Tab.0.center" timestamp="1618405198058">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618405198058" />
+    <state width="1364" height="208" key="GridCell.Tab.0.left" timestamp="1618405198058">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618405198058" />
+    <state width="1364" height="208" key="GridCell.Tab.0.right" timestamp="1618405198058">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618405198058" />
   </component>
 </project>

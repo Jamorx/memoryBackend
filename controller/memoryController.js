@@ -2,8 +2,14 @@ class MemoryController {
     get(ctx, next) {
         ctx.body = 'memory'
     }
-    list(ctx, next) {
-        ctx.body = 'memory list'
+    update (ctx, next ){
+        ctx.body = '修改'
+    }
+    insert (ctx, next) {
+        ctx.body = '插入'
+    }
+    delete (ctx, next) {
+        ctx.body = '删除'
     }
 }
 
